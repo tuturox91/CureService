@@ -1,0 +1,3 @@
+# CureService
+
+Simple RESTful app
